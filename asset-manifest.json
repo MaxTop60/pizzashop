@@ -1,7 +1,26 @@
 {
   "files": {
-    "main.css": "/pizzashop/static/css/main.089fabfe.css",
-    "main.js": "/pizzashop/static/js/main.d23e2253.js",
+    "main.css": "/pizzashop/static/css/main.e4ddc409.css",
+    "main.js": "/pizzashop/static/js/main.031fcd43.js",
+    "static/media/blog_background.jpg": "/pizzashop/static/media/blog_background.b7f7bd3bbc688031821f.jpg",
+    "static/media/popular_background.jpg": "/pizzashop/static/media/popular_background.452e9b6998228a0c445e.jpg",
+    "static/media/tour_background.jpg": "/pizzashop/static/media/tour_background.bd3bb9ad1aa79ee60699.jpg",
+    "static/media/where_background.jpg": "/pizzashop/static/media/where_background.a6582cef6c9a16371da6.jpg",
+    "static/media/inst_background.jpg": "/pizzashop/static/media/inst_background.17fb9d49771770fcf5f7.jpg",
+    "static/media/cofee_background.jpg": "/pizzashop/static/media/cofee_background.0109cf1f8e84a8922d13.jpg",
+    "static/media/two_for_one_background.jpg": "/pizzashop/static/media/two_for_one_background.8b39121cb87d9f105525.jpg",
+    "static/media/about_photo.png": "/pizzashop/static/media/about_photo.21f26b555a6c03a32dd6.png",
+    "static/media/preview_photo.png": "/pizzashop/static/media/preview_photo.f7dd5a5f9a93a77f9c7a.png",
+    "static/media/about_text.png": "/pizzashop/static/media/about_text.ef0178578f075bdfa97f.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-4.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-4.e9f766793a15dffcaf5a.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-5.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-5.22c7266aea8b435a9fd2.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-7.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-7.ccac78a43e98b4b1e33a.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-6.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-6.e8dfc39507cff23ac634.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-1.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-1.8e7270b04f71c91aa775.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-3.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-3.de6b8107944acf546a28.png",
+    "static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-2.png": "/pizzashop/static/media/1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1-2.d2b1c1ca6986e1e597a3.png",
+    "static/media/preview_fries.png": "/pizzashop/static/media/preview_fries.b6d94ee8ec70e9ad1ae0.png",
+    "static/media/preview_pizza.png": "/pizzashop/static/media/preview_pizza.3a0e95103ce2496af7e8.png",
     "static/media/Fontfabric - MullerMedium.woff2": "/pizzashop/static/media/Fontfabric - MullerMedium.7687375551b0d1280a61.woff2",
     "static/media/Fontfabric - MullerBold.woff2": "/pizzashop/static/media/Fontfabric - MullerBold.161ec252076e37e43ab2.woff2",
     "static/media/Fontfabric - MullerRegular.woff2": "/pizzashop/static/media/Fontfabric - MullerRegular.157793b48b21cb8031cb.woff2",
@@ -10,11 +29,11 @@
     "static/media/lightning.svg": "/pizzashop/static/media/lightning.71a9975e8d304af614baef61bb38fe93.svg",
     "index.html": "/pizzashop/index.html",
     "static/media/close_icon.svg": "/pizzashop/static/media/close_icon.90a70014b365b7fb9aa0c5267bebeca3.svg",
-    "main.089fabfe.css.map": "/pizzashop/static/css/main.089fabfe.css.map",
-    "main.d23e2253.js.map": "/pizzashop/static/js/main.d23e2253.js.map"
+    "main.e4ddc409.css.map": "/pizzashop/static/css/main.e4ddc409.css.map",
+    "main.031fcd43.js.map": "/pizzashop/static/js/main.031fcd43.js.map"
   },
   "entrypoints": [
-    "static/css/main.089fabfe.css",
-    "static/js/main.d23e2253.js"
+    "static/css/main.e4ddc409.css",
+    "static/js/main.031fcd43.js"
   ]
 }
